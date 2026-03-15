@@ -27,7 +27,9 @@ Com isso, os dois programas serão compilados. Após isso, abra dois terminais, 
 <body>
 <h2>Make</h2>
 <img src="./imgs/MiniTalk_1.png" alt="Compiling the programs"\>
+<p>Apenas rodem o comando make e aguardem a compilação. Durante minha implementação, eu não usei a Libft, biblioteca própria em C, devido a preferir montar meus projetos e funções do zero novamente visando fixar a lógica e me ajudar nos exames da École 42, que estavam próximos.</p>
 <h2>Using the Programs</h2>
 <img src="./imgs/MiniTalk_2.png" alt="Using the programs"\>
+<p>Para que o projeto possa ser executado, recomendo abrirem dois terminais, prompts de comandos como bash, zh ou sh. Após isso, rodem o servidor, como mostrado. O programa foi preparado para exibir o PID (identificação dele como processo no sistema) para que possam enviar uma mensagem e apontar para qual processo. Ao passarem o meu servidor e a mensagem, conseguirão verificar a lógica sendo aplicada na prática. =D</p>
 </body>
 </html>
