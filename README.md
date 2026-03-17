@@ -4,8 +4,7 @@
 </p>
 
 <h1 align="center">
-  <br>
-  <a href="https://github.com/SEU_USUARIO/minitalk">
+  <a href="https://github.com/fernandoruanb/MiniTalk">
     <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/minitalkm.png" alt="MiniTalk badge" width="200">
   </a>
   <br>
